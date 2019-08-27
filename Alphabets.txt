@@ -1,7 +1,6 @@
 A 
 B
 c
-D
 E 
 F
 ghi
@@ -9,3 +8,5 @@ J
 K
 L
 Deepinder Singh
+c
+
